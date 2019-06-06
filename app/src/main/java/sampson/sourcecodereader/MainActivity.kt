@@ -2,6 +2,7 @@ package sampson.sourcecodereader
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import sampson.sourcecodereader.R
 
 class MainActivity : AppCompatActivity() {
 
